@@ -1,3 +1,3 @@
 # Projeto de recomendação de artigos do medium usando Machine Learning
 
-## app_recomenda_artigos_medium
+## baseado no curso de Data Science do Mario Filho {https://curso.mariofilho.com/}
