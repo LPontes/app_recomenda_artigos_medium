@@ -6,9 +6,9 @@ import numpy as np
 import json
 import unidecode
 
-mdl_rf = jb.load("random_forest_20200208.pkl.z")
-mdl_lgbm = jb.load("lgbm_20200208.pkl.z")
-title_vec = jb.load("title_vectorizer_20200208.pkl.z")
+mdl_rf = jb.load("random_forest_20210302.pkl.z")
+mdl_lgbm = jb.load("lgbm_20210302.pkl.z")
+title_vec = jb.load("title_vectorizer_20210302.pkl.z")
 
 
 def clean_features(data):
